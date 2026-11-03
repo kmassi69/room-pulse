@@ -1,0 +1,415 @@
+{
+  "createdAt": "2026-11-03T08:33:55.373Z",
+  "provider": "groq",
+  "model": "openai/gpt-oss-120b",
+  "overs": [
+    {
+      "over": 1,
+      "chat": {
+        "source": "llm",
+        "label": "Simulated chat",
+        "messages": [
+          {
+            "user": "rahul_0412",
+            "text": "dot... kya bhai",
+            "ball": 0,
+            "offsetMs": 120
+          },
+          {
+            "user": "sneha_99",
+            "text": "Rao ko thoda patience",
+            "ball": 0,
+            "offsetMs": 350
+          },
+          {
+            "user": "mumbai_ka_raja",
+            "text": "four! aage badho 😎",
+            "ball": 1,
+            "offsetMs": 500
+          },
+          {
+            "user": "dhoni_fan7",
+            "text": "Rao ne chhakka nahi, but solid",
+            "ball": 1,
+            "offsetMs": 620
+          },
+          {
+            "user": "priya.sharma",
+            "text": "chaar run ka mazaa",
+            "ball": 1,
+            "offsetMs": 780
+          },
+          {
+            "user": "xX_cric_Xx",
+            "text": "Rao ka style, bas 4",
+            "ball": 1,
+            "offsetMs": 910
+          },
+          {
+            "user": "ankit_007",
+            "text": "four aa gaya, tension kam",
+            "ball": 1,
+            "offsetMs": 1040
+          },
+          {
+            "user": "tanya_13",
+            "text": "kya baat hai, four!",
+            "ball": 1,
+            "offsetMs": 1190
+          },
+          {
+            "user": "vicky_tech",
+            "text": "Rao ka shot, perfect",
+            "ball": 1,
+            "offsetMs": 1330
+          },
+          {
+            "user": "deepak_12",
+            "text": "four... abhi start",
+            "ball": 1,
+            "offsetMs": 1470
+          },
+          {
+            "user": "pankaj_g",
+            "text": "ek run, thoda steady",
+            "ball": 2,
+            "offsetMs": 1600
+          },
+          {
+            "user": "isha_2020",
+            "text": "single, keep rotating",
+            "ball": 2,
+            "offsetMs": 1740
+          },
+          {
+            "user": "rahul_kaur",
+            "text": "dot ball, Singh ka kamal",
+            "ball": 3,
+            "offsetMs": 1880
+          },
+          {
+            "user": "nithin_89",
+            "text": "abhi bhi pressure",
+            "ball": 3,
+            "offsetMs": 2000
+          },
+          {
+            "user": "sahil_king",
+            "text": "six!!! 🔥🔥🔥",
+            "ball": 4,
+            "offsetMs": 250
+          },
+          {
+            "user": "lata_777",
+            "text": "Rao ne six maara, wow",
+            "ball": 4,
+            "offsetMs": 430
+          },
+          {
+            "user": "kiran_b",
+            "text": "six, Singh ki bowling fail",
+            "ball": 4,
+            "offsetMs": 560
+          },
+          {
+            "user": "rohit_j",
+            "text": "ab toh party 🎉",
+            "ball": 4,
+            "offsetMs": 690
+          },
+          {
+            "user": "neha_45",
+            "text": "sixyyy, dil garden garden",
+            "ball": 4,
+            "offsetMs": 820
+          },
+          {
+            "user": "abhishek_99",
+            "text": "Rao ka six, mast",
+            "ball": 4,
+            "offsetMs": 940
+          },
+          {
+            "user": "ravi_kumar",
+            "text": "six! wifi off ho gaya",
+            "ball": 4,
+            "offsetMs": 1080
+          },
+          {
+            "user": "sanya_01",
+            "text": "six, ab batting ka maza",
+            "ball": 4,
+            "offsetMs": 1220
+          },
+          {
+            "user": "chetan_m",
+            "text": "six! kya shot hai",
+            "ball": 4,
+            "offsetMs": 1360
+          },
+          {
+            "user": "gautam_22",
+            "text": "single, last over tak",
+            "ball": 5,
+            "offsetMs": 1500
+          },
+          {
+            "user": "meera_33",
+            "text": "ek run, steady pace",
+            "ball": 5,
+            "offsetMs": 1650
+          }
+        ]
+      },
+      "pulse": {
+        "source": "llm",
+        "label": "AI analysis of simulated chat",
+        "pulse": {
+          "mood": "hyped",
+          "moodScore": 88,
+          "summary": {
+            "en": "The room is buzzing with excitement after Rao’s early four and a six.",
+            "hinglish": "Room full of hype after Rao ka early four aur six."
+          },
+          "topTakes": [
+            {
+              "user": "rahul_0412",
+              "text": "dot... kya bhai",
+              "ball": 0,
+              "why": "Funny reaction to the first dot."
+            },
+            {
+              "user": "sahil_king",
+              "text": "six!!! 🔥🔥🔥",
+              "ball": 4,
+              "why": "Exclaims six with fire emojis."
+            },
+            {
+              "user": "ankit_007",
+              "text": "four aa gaya, tension kam",
+              "ball": 1,
+              "why": "Notes tension easing after four."
+            }
+          ],
+          "catchUp": {
+            "en": "Rao opened with a dot, then hit a four, a single, a dot, a six and a single, ending the over at 12/0. Fans erupted, cheering the four and especially the six, keeping the vibe high.",
+            "hinglish": "Rao ne pehle dot, phir chaar, ek run, dot, six aur phir ek run lagaya, over 12/0 pe khatam. Fans ne four aur six pe full dhamaka kiya, vibe high rahi."
+          }
+        }
+      }
+    },
+    {
+      "over": 2,
+      "chat": {
+        "source": "llm",
+        "label": "Simulated chat",
+        "messages": [
+          {
+            "user": "rahul_0412",
+            "text": "chota run, tension kam 😅",
+            "ball": 0,
+            "offsetMs": 147
+          },
+          {
+            "user": "mumbai_ka_raja",
+            "text": "abhi start hua, chill",
+            "ball": 0,
+            "offsetMs": 312
+          },
+          {
+            "user": "dhoni_fan7",
+            "text": "kya catch? maza aa gaya!",
+            "ball": 1,
+            "offsetMs": 468
+          },
+          {
+            "user": "priya.sharma",
+            "text": "mehta out, maine bola tha 🙌",
+            "ball": 1,
+            "offsetMs": 629
+          },
+          {
+            "user": "xX_cric_Xx",
+            "text": "khan ne phir se wicket le liya 😏",
+            "ball": 1,
+            "offsetMs": 789
+          },
+          {
+            "user": "ankit_99",
+            "text": "ouch! poor guy 😢",
+            "ball": 1,
+            "offsetMs": 945
+          },
+          {
+            "user": "sneha_123",
+            "text": "khan ki line tight!!",
+            "ball": 1,
+            "offsetMs": 1102
+          },
+          {
+            "user": "vikas_bats",
+            "text": "balle ka koi chance nahi 😐",
+            "ball": 1,
+            "offsetMs": 1265
+          },
+          {
+            "user": "raghav_k",
+            "text": "khan ka magic, sab out!",
+            "ball": 1,
+            "offsetMs": 1418
+          },
+          {
+            "user": "neha_kaur",
+            "text": "koi tension nahi, ab chase start!",
+            "ball": 1,
+            "offsetMs": 1579
+          },
+          {
+            "user": "rohit_singh",
+            "text": "dot, thoda patience",
+            "ball": 2,
+            "offsetMs": 172
+          },
+          {
+            "user": "akash_007",
+            "text": "bowlers ko thoda relief 😏",
+            "ball": 2,
+            "offsetMs": 340
+          },
+          {
+            "user": "devika_88",
+            "text": "four!! iyer ka swag 😎",
+            "ball": 3,
+            "offsetMs": 512
+          },
+          {
+            "user": "arun_pandey",
+            "text": "yay! boundary ka maza",
+            "ball": 3,
+            "offsetMs": 684
+          },
+          {
+            "user": "jitu_king",
+            "text": "chakka! khan ko dikhado 😜",
+            "ball": 3,
+            "offsetMs": 856
+          },
+          {
+            "user": "sonam_5",
+            "text": "balle ki aag lagi 🔥",
+            "ball": 3,
+            "offsetMs": 1028
+          },
+          {
+            "user": "kuldeep_21",
+            "text": "four aa gayi, crowd go loud!",
+            "ball": 3,
+            "offsetMs": 1200
+          },
+          {
+            "user": "ananya_m",
+            "text": "nice shot, keep it coming",
+            "ball": 3,
+            "offsetMs": 1372
+          },
+          {
+            "user": "vicky_007",
+            "text": "khan ka over abhi bhi dangerous",
+            "ball": 3,
+            "offsetMs": 1544
+          },
+          {
+            "user": "rita_91",
+            "text": "wide! bowler ko thoda control chahiye 🙄",
+            "ball": 4,
+            "offsetMs": 1716
+          },
+          {
+            "user": "manish_k",
+            "text": "ye wide se extra run mil gaye 😂",
+            "ball": 4,
+            "offsetMs": 1888
+          },
+          {
+            "user": "shreyas_99",
+            "text": "sixxxx! iyer ne rocket launch kiya 🚀",
+            "ball": 5,
+            "offsetMs": 205
+          },
+          {
+            "user": "pavan_d",
+            "text": "wow! boundary ke upar hi 😱",
+            "ball": 5,
+            "offsetMs": 380
+          },
+          {
+            "user": "lara_22",
+            "text": "six! stadium ka roof hil gaya 😆",
+            "ball": 5,
+            "offsetMs": 555
+          },
+          {
+            "user": "amit_k",
+            "text": "khan ko bhi sharm aayi 😂",
+            "ball": 5,
+            "offsetMs": 730
+          },
+          {
+            "user": "nisha_777",
+            "text": "six, six, SIX! 🔥🔥",
+            "ball": 5,
+            "offsetMs": 905
+          },
+          {
+            "user": "farhan_123",
+            "text": "yehi toh maine dekha tha, perfect",
+            "ball": 5,
+            "offsetMs": 1080
+          },
+          {
+            "user": "swati_90",
+            "text": "abhi se party mode on 🎉",
+            "ball": 5,
+            "offsetMs": 1255
+          }
+        ]
+      },
+      "pulse": {
+        "source": "llm",
+        "label": "AI analysis of simulated chat",
+        "pulse": {
+          "mood": "hyped",
+          "moodScore": 85,
+          "summary": {
+            "en": "The room is hyped as Iyer’s sixes light up the over despite the early wicket.",
+            "hinglish": "Room hyped hai, Iyer ke sixes ne over ko fire kar diya, wicket ke bawajood."
+          },
+          "topTakes": [
+            {
+              "user": "shreyas_99",
+              "text": "sixxxx! iyer ne rocket launch kiya 🚀",
+              "ball": 5,
+              "why": "rocket launch metaphor"
+            },
+            {
+              "user": "arun_pandey",
+              "text": "yay! boundary ka maza",
+              "ball": 3,
+              "why": "celebrates boundary"
+            },
+            {
+              "user": "xX_cric_Xx",
+              "text": "khan ne phir se wicket le liya 😏",
+              "ball": 1,
+              "why": "witty wicket comment"
+            }
+          ],
+          "catchUp": {
+            "en": "Mehta was caught on the second ball, then Iyer hit a four, a wide, a six and a two, moving the total to 26/1. Fans erupted with cheers, rocket emojis and party vibes, turning the early setback into hype.",
+            "hinglish": "Mehta out hua, phir Iyer ne four, wide, six aur do run lagaye, score 26/1 ho gaya. Chat mein sab ne cheers, rocket emojis aur party mode lagaya, tension ko hype mein badal diya."
+          }
+        }
+      }
+    }
+  ]
+}
